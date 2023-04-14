@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	gocloakHostname     = "http://localhost:8080"
+	gocloakHostname     = "http://localhost:8998"
 	gocloakRealm        = "gocloak"
 	gocloakClientID     = "gocloak"
 	gocloakClientSecret = "gocloak-secret"
